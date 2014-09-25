@@ -1,0 +1,13 @@
+{
+  "description": "Ústava života Timothy Learyho",
+  "developer": {
+    "name": "Vitex",
+    "url": "http://v.s.cz/"
+  },
+  "icons": {
+    "128": "/img/timothy-leary.png"
+  },
+  "launch_path": "/index.html",
+  "version": "0.1",
+  "name": "UstavaZivota"
+}

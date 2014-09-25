@@ -1,0 +1,26 @@
+/**
+ * Author: Your Name Here
+ * Date: Thu Sep 25 22:23:11 2014
+ */
+
+/* The following are examples of different CSS media queries */
+
+/* Basic desktop/screen width sniff */
+@media only screen and (min-width : 1224px) {
+  /* styles */
+}
+
+/* Traditional iPhone width */
+@media
+  only screen and (-webkit-min-device-pixel-ratio : 1.5),
+  only screen and (min-device-pixel-ratio : 1.5) {
+  /* styles */
+}
+
+/* Device settings at different orientations */
+@media screen and (orientation:portrait) {
+  /* styles */
+}
+@media screen and (orientation:landscape) {
+  /* styles */
+}

@@ -24,3 +24,5 @@
 @media screen and (orientation:landscape) {
   /* styles */
 }
+
+body { margin: 10px; }
